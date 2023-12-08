@@ -2,4 +2,4 @@
 Easy emulate linux using Qemu in termux or linux.
 
 user: root
-pass: xIw-pL4
+pass: root
