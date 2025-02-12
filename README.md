@@ -1,5 +1,4 @@
-# VM-Linux
-Easy emulate linux using Qemu in termux or linux.
-
+# qemu-vm
+Easy emulate linux using Qemu.
 user: root
 pass: root
