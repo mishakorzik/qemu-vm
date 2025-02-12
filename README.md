@@ -1,5 +1,5 @@
 # qemu-vm
-Easy emulate linux using Qemu.
+Easy emulate linux using Qemu. Only for aarch64
 
 ```bash
 apt install qemu-system-aarch64
